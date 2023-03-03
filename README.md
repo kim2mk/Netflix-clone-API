@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+Using React, recreated the Netflix home page. Utilizing TMDB API, built reusable functional components to display the most up-to-date shows and movies. Also, allows users to click on posters to watch trailers.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Available Scripts
 
